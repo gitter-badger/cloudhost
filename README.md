@@ -1,4 +1,6 @@
 # cloudhost
+
+[![Join the chat at https://gitter.im/john-dev/cloudhost](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/john-dev/cloudhost?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Broken since cloudapp 2.0!!
 
 cloudhost is either a clone from cloudapp or a proxy / data-storage build in php.
